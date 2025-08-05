@@ -111,7 +111,7 @@ MIT © [inokawa](https://github.com/inokawa)
 
 - 🧠 Demo Storybook: _[Coming Soon]_
 - 📦 NPM: [`react-animatable`](https://www.npmjs.com/package/react-animatable)
-- 🐙 GitHub: [Krishprajapati15/Admin-Panel](https://github.com/Krishprajapati15/Admin-Panel)
+- 🐙 GitHub: [Krishprajapati15/Admin-Panel](https://github.com/Krishprajapati15/storybook)
 
 ---
 
